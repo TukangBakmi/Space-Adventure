@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BossProjectileExplode
+comment1.params=Stage1
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ animation()
+numComments=4
