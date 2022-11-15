@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BatteryItemAmt
+comment1.params=text
+comment1.target=BatteryItemAmt(java.lang.String)
+comment2.params=text
+comment2.target=void\ setText(java.lang.String)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CoinIcon
+comment1.params=label
+comment1.target=CoinIcon(Label)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

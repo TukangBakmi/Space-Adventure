@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BatteryItem
+comment1.params=batteryAmmount
+comment1.target=BatteryItem(BatteryItemAmt)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ getPressed()
+comment4.params=
+comment4.target=void\ hover()
+numComments=5

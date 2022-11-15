@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BossHpIcon
+comment1.params=hpLabel
+comment1.target=BossHpIcon(BossHpLabel)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
