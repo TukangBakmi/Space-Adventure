@@ -25,6 +25,12 @@ A classic 2D platformer game built with [Greenfoot](https://www.greenfoot.org/do
 - Java installed on your computer
 - [Greenfoot](https://www.greenfoot.org/download) (tested on latest version)
 
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/23a3917c-bc71-4c20-8908-34c19239750c)
+![image](https://github.com/user-attachments/assets/499fb778-faab-4682-b52f-17fe06eba088)
+![image](https://github.com/user-attachments/assets/eacf491d-694a-487d-8c7c-b6a876e03620)
+![image](https://github.com/user-attachments/assets/c1394cc1-b955-4231-93f8-de9713b92607)
+
 ## 🙋‍♂️ Author
 
 **Albert Ardiansyah**  
