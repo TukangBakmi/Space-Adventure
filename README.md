@@ -29,3 +29,7 @@ A classic 2D platformer game built with [Greenfoot](https://www.greenfoot.org/do
 
 **Albert Ardiansyah**  
 📫 [@TukangBakmi on GitHub](https://github.com/TukangBakmi)
+
+## 📃 License
+
+This project is for educational and non-commercial use only. Please credit the author if reused or modified.
