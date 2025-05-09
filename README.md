@@ -35,6 +35,7 @@ A classic 2D platformer game built with [Greenfoot](https://www.greenfoot.org/do
 
 **Albert Ardiansyah**  
 📫 [@TukangBakmi on GitHub](https://github.com/TukangBakmi)
+📫 [@Leon-G-L on GitHub](https://github.com/Leon-G-L)
 
 ## 📃 License
 
