@@ -26,10 +26,10 @@ A classic 2D platformer game built with [Greenfoot](https://www.greenfoot.org/do
 - [Greenfoot](https://www.greenfoot.org/download) (tested on latest version)
 
 ## 📸 Screenshots
-![image](https://github.com/user-attachments/assets/23a3917c-bc71-4c20-8908-34c19239750c)
-![image](https://github.com/user-attachments/assets/499fb778-faab-4682-b52f-17fe06eba088)
-![image](https://github.com/user-attachments/assets/eacf491d-694a-487d-8c7c-b6a876e03620)
-![image](https://github.com/user-attachments/assets/c1394cc1-b955-4231-93f8-de9713b92607)
+![image](https://github.com/user-attachments/assets/d426eb86-ae3b-4e01-becf-696726c7e75d)
+![image](https://github.com/user-attachments/assets/f9b029bc-3356-40c4-a474-894a9bc8ab95)
+![image](https://github.com/user-attachments/assets/e38d8bfd-b1f0-40bf-912b-a9d94197e0d3)
+![image](https://github.com/user-attachments/assets/dfa90c1e-276c-48d4-bcde-b53b3fc66f1e)
 
 ## 🙋‍♂️ Author
 
